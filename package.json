@@ -1,0 +1,28 @@
+{
+  "name": "express-network-delay",
+  "version": "0.0.0",
+  "description": "Cause random or fixed delay in network responses for express application",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webextensions/express-network-delay.git"
+  },
+  "keywords": [
+    "random",
+    "fixed",
+    "delay",
+    "network",
+    "response",
+    "express",
+    "milliseconds"
+  ],
+  "author": "Priyank Parashar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webextensions/express-network-delay/issues"
+  },
+  "homepage": "https://github.com/webextensions/express-network-delay#readme"
+}
