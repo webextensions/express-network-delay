@@ -1,6 +1,6 @@
 {
   "name": "express-network-delay",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Cause random or fixed delay in network responses for express application",
   "main": "index.js",
   "scripts": {
